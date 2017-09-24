@@ -1,0 +1,9 @@
+{
+  "name": "now-promise",
+  "version": "0.0.1",
+  "description": "A simple promise implementation that also works for non-asynchronous server-side engines",
+  "main": "index.js",
+  "author": "Robert Kunze <quixotic.worx@protonmail.com>",
+  "license": "MIT",
+  "private": false
+}
